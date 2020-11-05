@@ -24,7 +24,9 @@ If pip is installed you need to manually install two packages that are used in
 mya script: 
 
 PyAutoGUI==0.9.52
+
 pynput==1.6.8
+
 
 To do that, you need to open windows cmmand line
  (click windows key + R, write "cmd" and press enter)
