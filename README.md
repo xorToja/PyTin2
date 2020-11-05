@@ -15,7 +15,7 @@ And who knows what more?
 
 ## How To Install
 
-Soo, at first you need to install Python version 3.7.x or older. 
+Soo, at first you need to install Python version 3.7.x or later. 
 You can simply achive that by visiting: https://www.python.org/
 
 Then you need to install pip (if it did not install with python automatically)
