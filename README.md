@@ -22,6 +22,7 @@ Then you need to install pip (if it did not install with python automatically)
 
 If pip is installed you need to manually install two packages that are used in 
 mya script: 
+
 PyAutoGUI==0.9.52
 pynput==1.6.8
 
@@ -82,10 +83,10 @@ You can use "tab key" on your keyboard to autofill commands.
 
 Kamil Graczyk - [@Twitter](https://twitter.com/xor_toja) - graczyk53@gmail.com
 
-Distributed under the MIT license. See ''LICENSE'' for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/xorToja](https://github.com/xorToja)
 
 ## Contributing
 
-See ''CONTRIBUTION'' for more information.
+See ``CONTRIBUTION`` for more information.
