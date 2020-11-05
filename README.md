@@ -81,7 +81,8 @@ You can use "tab key" on your keyboard to autofill commands.
 ## Meta
 
 Kamil Graczyk - [@Twitter](https://twitter.com/xor_toja) - graczyk53@gmail.com
-Distributed under the ___ license. See ''LICENSE'' for more information.
+
+Distributed under the MIT license. See ''LICENSE'' for more information.
 
 [https://github.com/xorToja](https://github.com/xorToja)
 
