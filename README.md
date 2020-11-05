@@ -30,23 +30,23 @@ To do that, you need to open windows cmmand line
  (click windows key + R, write "cmd" and press enter)
 and write down:
 
-'''sh
+```sh
 pip install PyAutoGUI 
-'''
+```
 (press enter)
 
-'''sh
+```sh
 pip install pynput 
-'''
+```
 (press enter)
 
 or easier way just download "requirements.txt"
 right click in the directory where you put this file
 open windows command line there and write down:
 
-'''sh
+```sh
 pip install -r requirements.txt 
-'''
+```
 
 it will work same way as installing them one by one
 
@@ -68,9 +68,9 @@ To simply do that, you can just right click in the directory where the script is
 
 Then in your "terminal" simply write (remember to add extension or it won't work):
 
-'''sh
+```sh
 python PyTin2.py 
-'''
+```
 
 You can use "tab key" on your keyboard to autofill commands.
 
