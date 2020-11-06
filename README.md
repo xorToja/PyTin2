@@ -21,7 +21,7 @@ You can simply achive that by visiting: https://www.python.org/
 Then you need to install pip (if it did not install with python automatically)
 
 If pip is installed you need to manually install two packages that are used in 
-mya script: 
+my script: 
 
 PyAutoGUI==0.9.52
 
