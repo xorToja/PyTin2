@@ -28,7 +28,7 @@ PyAutoGUI==0.9.52
 pynput==1.6.8
 
 
-To do that, you need to open windows cmmand line
+To do that, you need to open windows command line
  (click windows key + R, write "cmd" and press enter)
 and write down:
 
